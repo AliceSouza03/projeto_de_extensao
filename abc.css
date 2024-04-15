@@ -1,0 +1,104 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Doodle+Shadow&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Protest+Revolution&display=swap');
+
+body {
+    background-image: url(midia/fundo.jpg);
+     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+     font-size: 20px;   
+ }
+ h1 {
+    font-family: "Rubik Doodle Shadow", serif;
+    color: white;
+    text-align: center;
+    background-color: #851717;
+}
+div.abc {
+    display: inline-block;
+    border: 1px solid #851717;
+    box-shadow: 5px 5px 10px #c432329d;
+    height: 130px;
+    width: 130px;
+    transform: translate(50%, 50%);
+    margin: 0 1%;
+    cursor: pointer;
+}
+ 
+div#a {
+    background-image: url(abc/a.jpg);
+}
+div#b {
+    background-image: url(abc/b.jpg);
+}
+div#c {
+    background-image: url(abc/c.jpg);
+}
+div#d {
+    background-image: url(abc/d.jpg);
+}
+div#e {
+    background-image: url(abc/e.jpg);
+}
+div#f {
+    background-image: url(abc/f.jpg);
+}
+div#g {
+    background-image: url(abc/g.jpg);
+}
+div#h {
+    background-image: url(abc/h.jpg);
+}
+div#i {
+    background-image: url(abc/i.jpg);
+}
+div#j {
+    background-image: url(abc/j.jpg);
+}
+div#k {
+    background-image: url(abc/k.jpg);
+}
+div#l {
+    background-image: url(abc/l.jpg);
+}
+div#m {
+    background-image: url(abc/m.jpg);
+}
+div#n {
+    background-image: url(abc/n.jpg);
+}
+div#o {
+    background-image: url(abc/o.jpg);
+}
+div#p {
+    background-image: url(abc/p.jpg);
+}
+div#q {
+    background-image: url(abc/q.jpg);
+}
+div#r {
+    background-image: url(abc/r.jpg);
+}
+div#s {
+    background-image: url(abc/s.jpg);
+}
+div#t {
+    background-image: url(abc/t.jpg);
+}
+div#u {
+    background-image: url(abc/u.jpg);
+}
+div#v {
+    background-image: url(abc/v.jpg);
+}
+div#w {
+    background-image: url(abc/w.jpg);
+}
+div#x {
+    background-image: url(abc/x.jpg);
+}
+div#y {
+    background-image: url(abc/y.jpg);
+}
+div#z {
+    background-image: url(abc/z.jpg);
+}

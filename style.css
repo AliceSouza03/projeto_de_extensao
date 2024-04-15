@@ -1,0 +1,71 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Doodle+Shadow&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Protest+Revolution&display=swap');
+
+body {
+   background-image: url(midia/fundo.jpg);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;   
+}
+h1 {
+    font-family: "Rubik Doodle Shadow", serif;
+    color: #000000;
+    text-align: center;
+}
+h2 {
+    font-family: "Rubik Doodle Shadow", serif;
+    color: #000000;
+    text-align: center;
+}
+div.index {
+    display: inline-block;
+    border: 1px solid #851717;
+    box-shadow: 5px 5px 10px #c432329d;
+    height: 250px;
+    width: 250px;
+    transform: translate(50%, 50%);
+    cursor: pointer;
+    margin: 0  6%;
+}
+div#abc {
+    background-image: url(midia/abc.jpg);
+}
+div#leitura {
+    background-image: url(midia/leitura.jpg);
+}
+div#videos {
+    background-image: url(midia/videos.jpg);
+}
+div.livro {
+    display: inline-block;
+    border: 2px solid #851717;
+    box-shadow: 5px 5px 10px #c432329d;
+    height: 267px;
+    width: 200px;
+    transform: translate(50%, 20%);
+    cursor: pointer;
+    margin: 0 6%;
+    font-size: 16px;
+}
+
+div#l1 {
+    background-image: url(livros/feijao.jpg);
+}
+div#l2 {
+    background-image: url(livros/galinha.jpg);
+}
+div#l3 {
+    background-image: url(livros/patinho.jpg);
+}
+div#l4 {
+    background-image: url(livros/porquinhos.jpg);
+}
+div#l5 {
+    background-image: url(livros/vermelho.jpg);
+}
+div#l6 {
+    background-image: url(livros/tartaruga.jpg);
+}
+iframe {
+    transform: translate(50%, 20%);
+}
